@@ -79,6 +79,14 @@ a {
   display: block;
 }
 
+button {
+  font-size: 32px;
+  color: #1199C3;
+  text-decoration: none;
+  margin: 10px;
+  display: block;
+}
+
 .welcome-message {
   font-style: italic;
   font-size: 18px;
